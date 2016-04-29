@@ -2,7 +2,7 @@
   "name": "atom-indentation-eslintrc",
   "main": "./lib/atom-indentation-eslintrc",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "Changes indentation rule based on your .eslintrc.json file",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-indentation-eslintrc:toggle"
